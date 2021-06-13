@@ -3,7 +3,7 @@ Evaluates log files created by the Chia GUI for search speed and plots it on a
 histogram.
 
 ## How to use
-Open `users\<you>\.chia\mainnet\config\config.yaml`, and set `log_level` to
+Open `C:\Users\<you>\.chia\mainnet\config\config.yaml`, and set `log_level` to
 `INFO`. Restart the Chia GUI if it's running. Config files generated after this
 modification can be loaded with the "Load file" button in the application.
 
